@@ -1,0 +1,18 @@
+collection_id,collection,start_audio,end_audio,count,source_status
+01,Bhagavad Gita,1,360,360,photographed-index-unverified
+02,Srimad Bhagavatam,361,1046,686,photographed-index-unverified
+03,Isopanisad,1047,1053,7,photographed-index-unverified
+04,Nectar of Devotion,1054,1093,40,photographed-index-unverified
+05,General lectures,1094,1205,112,photographed-index-unverified
+06,Festival lectures,1206,1261,56,photographed-index-unverified
+07,Public Address,1262,1301,40,photographed-index-unverified
+08,Interviews,1302,1327,26,photographed-index-unverified
+09,Caitanya Caritamrta,1328,1409,82,photographed-index-unverified
+10,Morning Walks,1410,1614,205,photographed-index-unverified
+11,Room Conversations,1615,1852,238,photographed-index-unverified
+12,Japa and Kirtan,1853,1895,43,photographed-index-unverified
+13,Bhajan with Purport,1896,2071,176,photographed-index-unverified
+14,Prabhupada Tells Stories,2072,2117,46,photographed-index-unverified
+15,Recitation of BG and CC,2118,2137,20,photographed-index-unverified
+16,Hindi lectures,2138,2282,145,photographed-index-unverified
+17,Bengali lectures,2283,2302,20,photographed-index-unverified
