@@ -1,0 +1,18 @@
+# Śrīmad-Bhāgavatam 6.7.34: response
+
+**Chapter 7: Indra Offends His Spiritual Master, Bṛhaspati.**
+
+**Editorial theme:** response. This one-word theme is a study aid, not a translation or an authoritative verse title.
+
+**Source:** [Vedabase — Śrīmad-Bhāgavatam 6.7.34](https://vedabase.io/en/library/sb/6/7/34/)
+
+## Personal study notes
+
+- **Main teaching:**
+- **Key Sanskrit terms:**
+- **Insights from the purport:**
+- **Questions to explore:**
+- **Reflection / practical application:**
+- **Related passages:**
+
+[Chapter index](../README.md) · [Canto index](../../README.md)
