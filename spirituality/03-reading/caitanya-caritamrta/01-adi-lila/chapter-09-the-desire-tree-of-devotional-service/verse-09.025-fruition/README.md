@@ -1,0 +1,13 @@
+# Ādi-līlā 9.25: Fruition
+
+**Authorized source:** [Vedabase — Śrī Caitanya-caritāmṛta, Ādi-līlā 9.25](https://vedabase.io/en/library/cc/adi/9/25/)
+
+**One-word study theme:** Fruition (editorial summary; not a translation)
+
+## Translation and purport
+
+Consult the authorized translation and Śrīla Prabhupāda's purport at Vedabase. They are not reproduced here.
+
+## Study notes
+
+*Develop notes after reading the linked source. Texts 13–15 are presented together on Vedabase.*

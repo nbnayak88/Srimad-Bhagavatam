@@ -1,0 +1,13 @@
+# Madhya-līlā 7.7: Affection
+
+**Authorized source:** [Vedabase — Śrī Caitanya-caritāmṛta, Madhya-līlā 7.7](https://vedabase.io/en/library/cc/madhya/7/7-8/)
+
+**One-word study theme:** Affection (provisional editorial navigation label; not a translation or independently verified verse summary)
+
+## Translation and purport
+
+Read Śrīla Prabhupāda's authorized translation and purport at Vedabase. They are not reproduced here.
+
+## Study notes
+
+*Read the linked text and purport, then record observations and refine the theme if necessary.*

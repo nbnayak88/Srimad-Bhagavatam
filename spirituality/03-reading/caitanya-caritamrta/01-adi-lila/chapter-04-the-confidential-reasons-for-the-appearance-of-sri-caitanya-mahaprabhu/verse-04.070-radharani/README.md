@@ -1,0 +1,13 @@
+# Ādi-līlā 4.70: Radharani
+
+**Vedabase source:** [Śrī Caitanya-caritāmṛta, Ādi-līlā 4.70](https://vedabase.io/en/library/cc/adi/4/70/)
+
+**One-word study label:** Radharani (editorial; consult the source for the complete meaning)
+
+## Translation and purport
+
+Read the authorized translation and purport at Vedabase; copyrighted text is not reproduced here.
+
+## Study notes
+
+*To be developed from the source. This one-word label is a study aid, not a verified Sanskrit translation.*

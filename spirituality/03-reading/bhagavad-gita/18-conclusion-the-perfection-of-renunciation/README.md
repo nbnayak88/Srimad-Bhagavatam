@@ -1,0 +1,86 @@
+# Chapter 18: Conclusion — The Perfection of Renunciation
+
+**Authorized source:** [Vedabase — Bhagavad-gītā Chapter 18](https://vedabase.io/en/library/bg/18/)
+
+This chapter contains **78 individual verse folders**, following the zero-padded naming convention. Themes are provisional editorial study aids, not verified Sanskrit synonyms. Consult Vedabase for Śrīla Prabhupāda's translations and purports.
+
+| Verse | One-word theme | Study folder |
+|---|---|---|
+| 18.01 | Inquiry | [Open](./verse-18.01-inquiry/README.md) |
+| 18.02 | Renunciation | [Open](./verse-18.02-renunciation/README.md) |
+| 18.03 | Desire | [Open](./verse-18.03-desire/README.md) |
+| 18.04 | Duty | [Open](./verse-18.04-duty/README.md) |
+| 18.05 | Sacrifice | [Open](./verse-18.05-sacrifice/README.md) |
+| 18.06 | Responsibility | [Open](./verse-18.06-responsibility/README.md) |
+| 18.07 | Detachment | [Open](./verse-18.07-detachment/README.md) |
+| 18.08 | Renunciation | [Open](./verse-18.08-renunciation/README.md) |
+| 18.09 | Clarity | [Open](./verse-18.09-clarity/README.md) |
+| 18.10 | Fruits | [Open](./verse-18.10-fruits/README.md) |
+| 18.11 | Surrender | [Open](./verse-18.11-surrender/README.md) |
+| 18.12 | Knowledge | [Open](./verse-18.12-knowledge/README.md) |
+| 18.13 | Action | [Open](./verse-18.13-action/README.md) |
+| 18.14 | Agency | [Open](./verse-18.14-agency/README.md) |
+| 18.15 | Diversity | [Open](./verse-18.15-diversity/README.md) |
+| 18.16 | Unity | [Open](./verse-18.16-unity/README.md) |
+| 18.17 | Materialism | [Open](./verse-18.17-materialism/README.md) |
+| 18.18 | Discernment | [Open](./verse-18.18-discernment/README.md) |
+| 18.19 | Righteousness | [Open](./verse-18.19-righteousness/README.md) |
+| 18.20 | Delusion | [Open](./verse-18.20-delusion/README.md) |
+| 18.21 | Knowledge | [Open](./verse-18.21-knowledge/README.md) |
+| 18.22 | Motivation | [Open](./verse-18.22-motivation/README.md) |
+| 18.23 | Attachment | [Open](./verse-18.23-attachment/README.md) |
+| 18.24 | Ignorance | [Open](./verse-18.24-ignorance/README.md) |
+| 18.25 | Agent | [Open](./verse-18.25-agent/README.md) |
+| 18.26 | Discipline | [Open](./verse-18.26-discipline/README.md) |
+| 18.27 | Steadiness | [Open](./verse-18.27-steadiness/README.md) |
+| 18.28 | Determination | [Open](./verse-18.28-determination/README.md) |
+| 18.29 | Confusion | [Open](./verse-18.29-confusion/README.md) |
+| 18.30 | Happiness | [Open](./verse-18.30-happiness/README.md) |
+| 18.31 | Purification | [Open](./verse-18.31-purification/README.md) |
+| 18.32 | Pleasure | [Open](./verse-18.32-pleasure/README.md) |
+| 18.33 | Delusion | [Open](./verse-18.33-delusion/README.md) |
+| 18.34 | Modes | [Open](./verse-18.34-modes/README.md) |
+| 18.35 | Duties | [Open](./verse-18.35-duties/README.md) |
+| 18.36 | Brahmanas | [Open](./verse-18.36-brahmanas/README.md) |
+| 18.37 | Ksatriyas | [Open](./verse-18.37-ksatriyas/README.md) |
+| 18.38 | Vaisyas | [Open](./verse-18.38-vaisyas/README.md) |
+| 18.39 | Sudras | [Open](./verse-18.39-sudras/README.md) |
+| 18.40 | Perfection | [Open](./verse-18.40-perfection/README.md) |
+| 18.41 | Worship | [Open](./verse-18.41-worship/README.md) |
+| 18.42 | Svadharma | [Open](./verse-18.42-svadharma/README.md) |
+| 18.43 | Imperfection | [Open](./verse-18.43-imperfection/README.md) |
+| 18.44 | Detachment | [Open](./verse-18.44-detachment/README.md) |
+| 18.45 | Brahman | [Open](./verse-18.45-brahman/README.md) |
+| 18.46 | Realization | [Open](./verse-18.46-realization/README.md) |
+| 18.47 | Devotion | [Open](./verse-18.47-devotion/README.md) |
+| 18.48 | Revelation | [Open](./verse-18.48-revelation/README.md) |
+| 18.49 | Surrender | [Open](./verse-18.49-surrender/README.md) |
+| 18.50 | Guidance | [Open](./verse-18.50-guidance/README.md) |
+| 18.51 | Choice | [Open](./verse-18.51-choice/README.md) |
+| 18.52 | Resolve | [Open](./verse-18.52-resolve/README.md) |
+| 18.53 | Illusion | [Open](./verse-18.53-illusion/README.md) |
+| 18.54 | Destiny | [Open](./verse-18.54-destiny/README.md) |
+| 18.55 | Nature | [Open](./verse-18.55-nature/README.md) |
+| 18.56 | Lordship | [Open](./verse-18.56-lordship/README.md) |
+| 18.57 | Refuge | [Open](./verse-18.57-refuge/README.md) |
+| 18.58 | Discernment | [Open](./verse-18.58-discernment/README.md) |
+| 18.59 | Instruction | [Open](./verse-18.59-instruction/README.md) |
+| 18.60 | Confidentiality | [Open](./verse-18.60-confidentiality/README.md) |
+| 18.61 | Love | [Open](./verse-18.61-love/README.md) |
+| 18.62 | Surrender | [Open](./verse-18.62-surrender/README.md) |
+| 18.63 | Assurance | [Open](./verse-18.63-assurance/README.md) |
+| 18.64 | Prohibition | [Open](./verse-18.64-prohibition/README.md) |
+| 18.65 | Teaching | [Open](./verse-18.65-teaching/README.md) |
+| 18.66 | Transmission | [Open](./verse-18.66-transmission/README.md) |
+| 18.67 | Devotion | [Open](./verse-18.67-devotion/README.md) |
+| 18.68 | Study | [Open](./verse-18.68-study/README.md) |
+| 18.69 | Hearing | [Open](./verse-18.69-hearing/README.md) |
+| 18.70 | Faithfulness | [Open](./verse-18.70-faithfulness/README.md) |
+| 18.71 | Inquiry | [Open](./verse-18.71-inquiry/README.md) |
+| 18.72 | Clarity | [Open](./verse-18.72-clarity/README.md) |
+| 18.73 | Certainty | [Open](./verse-18.73-certainty/README.md) |
+| 18.74 | Memory | [Open](./verse-18.74-memory/README.md) |
+| 18.75 | Resolve | [Open](./verse-18.75-resolve/README.md) |
+| 18.76 | Obedience | [Open](./verse-18.76-obedience/README.md) |
+| 18.77 | Remembrance | [Open](./verse-18.77-remembrance/README.md) |
+| 18.78 | Victory | [Open](./verse-18.78-victory/README.md) |

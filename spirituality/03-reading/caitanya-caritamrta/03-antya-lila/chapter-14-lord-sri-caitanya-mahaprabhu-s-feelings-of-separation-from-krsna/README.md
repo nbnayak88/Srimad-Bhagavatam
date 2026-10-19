@@ -1,0 +1,135 @@
+# Antya-līlā Chapter 14 — Lord Śrī Caitanya Mahāprabhu’s Feelings of Separation from Kṛṣṇa
+
+**Authorized chapter:** https://vedabase.io/en/library/cc/antya/14/
+
+**123 numbered texts** in individual study folders. Vedabase combines **65–66** on one source page; each text has its own folder linking to the shared page. The one-word themes are **provisional section-level editorial navigation labels**, not individually verified verse summaries or authorized translations. Translations and purports are linked, not reproduced.
+
+## Chapter overview
+
+Śrī Caitanya Mahāprabhu experiences intense separation from Kṛṣṇa. After dreaming of Kṛṣṇa's rāsa dance, He visits Jagannātha and praises a woman's eagerness to see the Lord. His longing unfolds in the imagery of His mind as a yogī seeking Kṛṣṇa. The devotees find Him near Siṁha-dvāra and chant the holy names; later He runs toward Caṭaka-parvata, seeing it as Govardhana Hill. Consult Vedabase for the authorized translations and purports.
+
+| Text | Provisional theme | Study folder | Vedabase |
+|---|---|---|---|
+| 14.001 | Separation | [Open](./verse-14.001-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/1/) |
+| 14.002 | Separation | [Open](./verse-14.002-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/2/) |
+| 14.003 | Separation | [Open](./verse-14.003-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/3/) |
+| 14.004 | Separation | [Open](./verse-14.004-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/4/) |
+| 14.005 | Separation | [Open](./verse-14.005-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/5/) |
+| 14.006 | Separation | [Open](./verse-14.006-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/6/) |
+| 14.007 | Separation | [Open](./verse-14.007-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/7/) |
+| 14.008 | Separation | [Open](./verse-14.008-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/8/) |
+| 14.009 | Separation | [Open](./verse-14.009-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/9/) |
+| 14.010 | Separation | [Open](./verse-14.010-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/10/) |
+| 14.011 | Separation | [Open](./verse-14.011-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/11/) |
+| 14.012 | Separation | [Open](./verse-14.012-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/12/) |
+| 14.013 | Separation | [Open](./verse-14.013-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/13/) |
+| 14.014 | Separation | [Open](./verse-14.014-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/14/) |
+| 14.015 | Separation | [Open](./verse-14.015-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/15/) |
+| 14.016 | Separation | [Open](./verse-14.016-separation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/16/) |
+| 14.017 | Dream | [Open](./verse-14.017-dream/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/17/) |
+| 14.018 | Dream | [Open](./verse-14.018-dream/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/18/) |
+| 14.019 | Dream | [Open](./verse-14.019-dream/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/19/) |
+| 14.020 | Dream | [Open](./verse-14.020-dream/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/20/) |
+| 14.021 | Dream | [Open](./verse-14.021-dream/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/21/) |
+| 14.022 | Dream | [Open](./verse-14.022-dream/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/22/) |
+| 14.023 | Darshana | [Open](./verse-14.023-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/23/) |
+| 14.024 | Darshana | [Open](./verse-14.024-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/24/) |
+| 14.025 | Darshana | [Open](./verse-14.025-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/25/) |
+| 14.026 | Darshana | [Open](./verse-14.026-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/26/) |
+| 14.027 | Darshana | [Open](./verse-14.027-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/27/) |
+| 14.028 | Darshana | [Open](./verse-14.028-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/28/) |
+| 14.029 | Darshana | [Open](./verse-14.029-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/29/) |
+| 14.030 | Darshana | [Open](./verse-14.030-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/30/) |
+| 14.031 | Darshana | [Open](./verse-14.031-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/31/) |
+| 14.032 | Darshana | [Open](./verse-14.032-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/32/) |
+| 14.033 | Darshana | [Open](./verse-14.033-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/33/) |
+| 14.034 | Darshana | [Open](./verse-14.034-darshana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/34/) |
+| 14.035 | Longing | [Open](./verse-14.035-longing/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/35/) |
+| 14.036 | Longing | [Open](./verse-14.036-longing/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/36/) |
+| 14.037 | Longing | [Open](./verse-14.037-longing/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/37/) |
+| 14.038 | Longing | [Open](./verse-14.038-longing/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/38/) |
+| 14.039 | Longing | [Open](./verse-14.039-longing/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/39/) |
+| 14.040 | Longing | [Open](./verse-14.040-longing/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/40/) |
+| 14.041 | Meditation | [Open](./verse-14.041-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/41/) |
+| 14.042 | Meditation | [Open](./verse-14.042-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/42/) |
+| 14.043 | Meditation | [Open](./verse-14.043-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/43/) |
+| 14.044 | Meditation | [Open](./verse-14.044-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/44/) |
+| 14.045 | Meditation | [Open](./verse-14.045-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/45/) |
+| 14.046 | Meditation | [Open](./verse-14.046-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/46/) |
+| 14.047 | Meditation | [Open](./verse-14.047-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/47/) |
+| 14.048 | Meditation | [Open](./verse-14.048-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/48/) |
+| 14.049 | Meditation | [Open](./verse-14.049-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/49/) |
+| 14.050 | Meditation | [Open](./verse-14.050-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/50/) |
+| 14.051 | Meditation | [Open](./verse-14.051-meditation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/51/) |
+| 14.052 | Ecstasy | [Open](./verse-14.052-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/52/) |
+| 14.053 | Ecstasy | [Open](./verse-14.053-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/53/) |
+| 14.054 | Ecstasy | [Open](./verse-14.054-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/54/) |
+| 14.055 | Ecstasy | [Open](./verse-14.055-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/55/) |
+| 14.056 | Ecstasy | [Open](./verse-14.056-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/56/) |
+| 14.057 | Ecstasy | [Open](./verse-14.057-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/57/) |
+| 14.058 | Ecstasy | [Open](./verse-14.058-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/58/) |
+| 14.059 | Simhadvara | [Open](./verse-14.059-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/59/) |
+| 14.060 | Simhadvara | [Open](./verse-14.060-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/60/) |
+| 14.061 | Simhadvara | [Open](./verse-14.061-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/61/) |
+| 14.062 | Simhadvara | [Open](./verse-14.062-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/62/) |
+| 14.063 | Simhadvara | [Open](./verse-14.063-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/63/) |
+| 14.064 | Simhadvara | [Open](./verse-14.064-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/64/) |
+| 14.065 | Simhadvara | [Open](./verse-14.065-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/65-66/) |
+| 14.066 | Simhadvara | [Open](./verse-14.066-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/65-66/) |
+| 14.067 | Simhadvara | [Open](./verse-14.067-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/67/) |
+| 14.068 | Simhadvara | [Open](./verse-14.068-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/68/) |
+| 14.069 | Simhadvara | [Open](./verse-14.069-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/69/) |
+| 14.070 | Simhadvara | [Open](./verse-14.070-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/70/) |
+| 14.071 | Simhadvara | [Open](./verse-14.071-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/71/) |
+| 14.072 | Simhadvara | [Open](./verse-14.072-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/72/) |
+| 14.073 | Simhadvara | [Open](./verse-14.073-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/73/) |
+| 14.074 | Simhadvara | [Open](./verse-14.074-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/74/) |
+| 14.075 | Simhadvara | [Open](./verse-14.075-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/75/) |
+| 14.076 | Simhadvara | [Open](./verse-14.076-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/76/) |
+| 14.077 | Simhadvara | [Open](./verse-14.077-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/77/) |
+| 14.078 | Simhadvara | [Open](./verse-14.078-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/78/) |
+| 14.079 | Simhadvara | [Open](./verse-14.079-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/79/) |
+| 14.080 | Simhadvara | [Open](./verse-14.080-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/80/) |
+| 14.081 | Simhadvara | [Open](./verse-14.081-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/81/) |
+| 14.082 | Simhadvara | [Open](./verse-14.082-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/82/) |
+| 14.083 | Simhadvara | [Open](./verse-14.083-simhadvara/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/83/) |
+| 14.084 | Govardhana | [Open](./verse-14.084-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/84/) |
+| 14.085 | Govardhana | [Open](./verse-14.085-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/85/) |
+| 14.086 | Govardhana | [Open](./verse-14.086-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/86/) |
+| 14.087 | Govardhana | [Open](./verse-14.087-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/87/) |
+| 14.088 | Govardhana | [Open](./verse-14.088-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/88/) |
+| 14.089 | Govardhana | [Open](./verse-14.089-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/89/) |
+| 14.090 | Govardhana | [Open](./verse-14.090-govardhana/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/90/) |
+| 14.091 | Transformation | [Open](./verse-14.091-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/91/) |
+| 14.092 | Transformation | [Open](./verse-14.092-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/92/) |
+| 14.093 | Transformation | [Open](./verse-14.093-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/93/) |
+| 14.094 | Transformation | [Open](./verse-14.094-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/94/) |
+| 14.095 | Transformation | [Open](./verse-14.095-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/95/) |
+| 14.096 | Transformation | [Open](./verse-14.096-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/96/) |
+| 14.097 | Transformation | [Open](./verse-14.097-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/97/) |
+| 14.098 | Transformation | [Open](./verse-14.098-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/98/) |
+| 14.099 | Transformation | [Open](./verse-14.099-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/99/) |
+| 14.100 | Transformation | [Open](./verse-14.100-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/100/) |
+| 14.101 | Transformation | [Open](./verse-14.101-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/101/) |
+| 14.102 | Transformation | [Open](./verse-14.102-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/102/) |
+| 14.103 | Transformation | [Open](./verse-14.103-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/103/) |
+| 14.104 | Transformation | [Open](./verse-14.104-transformation/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/104/) |
+| 14.105 | Vision | [Open](./verse-14.105-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/105/) |
+| 14.106 | Vision | [Open](./verse-14.106-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/106/) |
+| 14.107 | Vision | [Open](./verse-14.107-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/107/) |
+| 14.108 | Vision | [Open](./verse-14.108-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/108/) |
+| 14.109 | Vision | [Open](./verse-14.109-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/109/) |
+| 14.110 | Vision | [Open](./verse-14.110-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/110/) |
+| 14.111 | Vision | [Open](./verse-14.111-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/111/) |
+| 14.112 | Vision | [Open](./verse-14.112-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/112/) |
+| 14.113 | Vision | [Open](./verse-14.113-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/113/) |
+| 14.114 | Vision | [Open](./verse-14.114-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/114/) |
+| 14.115 | Vision | [Open](./verse-14.115-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/115/) |
+| 14.116 | Vision | [Open](./verse-14.116-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/116/) |
+| 14.117 | Vision | [Open](./verse-14.117-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/117/) |
+| 14.118 | Conclusion | [Open](./verse-14.118-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/118/) |
+| 14.119 | Conclusion | [Open](./verse-14.119-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/119/) |
+| 14.120 | Conclusion | [Open](./verse-14.120-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/120/) |
+| 14.121 | Conclusion | [Open](./verse-14.121-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/121/) |
+| 14.122 | Conclusion | [Open](./verse-14.122-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/122/) |
+| 14.123 | Conclusion | [Open](./verse-14.123-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/14/123/) |

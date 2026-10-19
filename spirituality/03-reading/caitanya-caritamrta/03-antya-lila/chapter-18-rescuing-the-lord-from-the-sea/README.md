@@ -1,0 +1,133 @@
+# Antya-līlā Chapter 18 — Rescuing the Lord from the Sea
+
+**Authorized chapter:** https://vedabase.io/en/library/cc/antya/18/
+
+**121 numbered texts** in individual study folders. Vedabase combines **16–17** on a shared source page; both numbered texts have their own folder linking to that page. The one-word themes are **provisional section-level editorial navigation labels**, not independently verified individual verse summaries or authorized translations. Translations and purports are linked, not reproduced.
+
+## Chapter overview
+
+On an autumn moonlit night Śrī Caitanya Mahāprabhu mistakes the sea for the Yamunā and enters the water, absorbed in Kṛṣṇa's water pastimes. The waves carry Him toward Koṇārka, where a fisherman catches Him in his net. Svarūpa Dāmodara calms the frightened fisherman and leads the devotees to the Lord. Through congregational chanting the Lord regains external awareness and describes His vision of Rādhā and Kṛṣṇa's pastimes in Vṛndāvana. Consult Vedabase for authorized translations and purports.
+
+| Text | Provisional theme | Study folder | Vedabase |
+|---|---|---|---|
+| 18.001 | Ecstasy | [Open](./verse-18.001-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/1/) |
+| 18.002 | Ecstasy | [Open](./verse-18.002-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/2/) |
+| 18.003 | Ecstasy | [Open](./verse-18.003-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/3/) |
+| 18.004 | Ecstasy | [Open](./verse-18.004-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/4/) |
+| 18.005 | Ecstasy | [Open](./verse-18.005-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/5/) |
+| 18.006 | Ecstasy | [Open](./verse-18.006-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/6/) |
+| 18.007 | Ecstasy | [Open](./verse-18.007-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/7/) |
+| 18.008 | Ecstasy | [Open](./verse-18.008-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/8/) |
+| 18.009 | Ecstasy | [Open](./verse-18.009-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/9/) |
+| 18.010 | Ecstasy | [Open](./verse-18.010-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/10/) |
+| 18.011 | Ecstasy | [Open](./verse-18.011-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/11/) |
+| 18.012 | Ecstasy | [Open](./verse-18.012-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/12/) |
+| 18.013 | Ecstasy | [Open](./verse-18.013-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/13/) |
+| 18.014 | Ecstasy | [Open](./verse-18.014-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/14/) |
+| 18.015 | Ecstasy | [Open](./verse-18.015-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/15/) |
+| 18.016 | Ecstasy | [Open](./verse-18.016-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/16-17/) |
+| 18.017 | Ecstasy | [Open](./verse-18.017-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/16-17/) |
+| 18.018 | Ecstasy | [Open](./verse-18.018-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/18/) |
+| 18.019 | Ecstasy | [Open](./verse-18.019-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/19/) |
+| 18.020 | Ecstasy | [Open](./verse-18.020-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/20/) |
+| 18.021 | Ecstasy | [Open](./verse-18.021-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/21/) |
+| 18.022 | Ecstasy | [Open](./verse-18.022-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/22/) |
+| 18.023 | Ecstasy | [Open](./verse-18.023-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/23/) |
+| 18.024 | Ocean | [Open](./verse-18.024-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/24/) |
+| 18.025 | Ocean | [Open](./verse-18.025-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/25/) |
+| 18.026 | Ocean | [Open](./verse-18.026-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/26/) |
+| 18.027 | Ocean | [Open](./verse-18.027-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/27/) |
+| 18.028 | Ocean | [Open](./verse-18.028-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/28/) |
+| 18.029 | Ocean | [Open](./verse-18.029-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/29/) |
+| 18.030 | Ocean | [Open](./verse-18.030-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/30/) |
+| 18.031 | Ocean | [Open](./verse-18.031-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/31/) |
+| 18.032 | Ocean | [Open](./verse-18.032-ocean/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/32/) |
+| 18.033 | Search | [Open](./verse-18.033-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/33/) |
+| 18.034 | Search | [Open](./verse-18.034-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/34/) |
+| 18.035 | Search | [Open](./verse-18.035-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/35/) |
+| 18.036 | Search | [Open](./verse-18.036-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/36/) |
+| 18.037 | Search | [Open](./verse-18.037-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/37/) |
+| 18.038 | Search | [Open](./verse-18.038-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/38/) |
+| 18.039 | Search | [Open](./verse-18.039-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/39/) |
+| 18.040 | Search | [Open](./verse-18.040-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/40/) |
+| 18.041 | Search | [Open](./verse-18.041-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/41/) |
+| 18.042 | Search | [Open](./verse-18.042-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/42/) |
+| 18.043 | Search | [Open](./verse-18.043-search/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/43/) |
+| 18.044 | Fisherman | [Open](./verse-18.044-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/44/) |
+| 18.045 | Fisherman | [Open](./verse-18.045-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/45/) |
+| 18.046 | Fisherman | [Open](./verse-18.046-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/46/) |
+| 18.047 | Fisherman | [Open](./verse-18.047-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/47/) |
+| 18.048 | Fisherman | [Open](./verse-18.048-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/48/) |
+| 18.049 | Fisherman | [Open](./verse-18.049-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/49/) |
+| 18.050 | Fisherman | [Open](./verse-18.050-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/50/) |
+| 18.051 | Fisherman | [Open](./verse-18.051-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/51/) |
+| 18.052 | Fisherman | [Open](./verse-18.052-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/52/) |
+| 18.053 | Fisherman | [Open](./verse-18.053-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/53/) |
+| 18.054 | Fisherman | [Open](./verse-18.054-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/54/) |
+| 18.055 | Fisherman | [Open](./verse-18.055-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/55/) |
+| 18.056 | Fisherman | [Open](./verse-18.056-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/56/) |
+| 18.057 | Fisherman | [Open](./verse-18.057-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/57/) |
+| 18.058 | Fisherman | [Open](./verse-18.058-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/58/) |
+| 18.059 | Fisherman | [Open](./verse-18.059-fisherman/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/59/) |
+| 18.060 | Recognition | [Open](./verse-18.060-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/60/) |
+| 18.061 | Recognition | [Open](./verse-18.061-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/61/) |
+| 18.062 | Recognition | [Open](./verse-18.062-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/62/) |
+| 18.063 | Recognition | [Open](./verse-18.063-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/63/) |
+| 18.064 | Recognition | [Open](./verse-18.064-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/64/) |
+| 18.065 | Recognition | [Open](./verse-18.065-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/65/) |
+| 18.066 | Recognition | [Open](./verse-18.066-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/66/) |
+| 18.067 | Recognition | [Open](./verse-18.067-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/67/) |
+| 18.068 | Recognition | [Open](./verse-18.068-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/68/) |
+| 18.069 | Recognition | [Open](./verse-18.069-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/69/) |
+| 18.070 | Recognition | [Open](./verse-18.070-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/70/) |
+| 18.071 | Rescue | [Open](./verse-18.071-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/71/) |
+| 18.072 | Rescue | [Open](./verse-18.072-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/72/) |
+| 18.073 | Rescue | [Open](./verse-18.073-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/73/) |
+| 18.074 | Rescue | [Open](./verse-18.074-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/74/) |
+| 18.075 | Rescue | [Open](./verse-18.075-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/75/) |
+| 18.076 | Rescue | [Open](./verse-18.076-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/76/) |
+| 18.077 | Rescue | [Open](./verse-18.077-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/77/) |
+| 18.078 | Rescue | [Open](./verse-18.078-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/78/) |
+| 18.079 | Rescue | [Open](./verse-18.079-rescue/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/79/) |
+| 18.080 | Vision | [Open](./verse-18.080-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/80/) |
+| 18.081 | Vision | [Open](./verse-18.081-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/81/) |
+| 18.082 | Vision | [Open](./verse-18.082-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/82/) |
+| 18.083 | Vision | [Open](./verse-18.083-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/83/) |
+| 18.084 | Vision | [Open](./verse-18.084-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/84/) |
+| 18.085 | Vision | [Open](./verse-18.085-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/85/) |
+| 18.086 | Vision | [Open](./verse-18.086-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/86/) |
+| 18.087 | Vision | [Open](./verse-18.087-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/87/) |
+| 18.088 | Vision | [Open](./verse-18.088-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/88/) |
+| 18.089 | Vision | [Open](./verse-18.089-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/89/) |
+| 18.090 | Vision | [Open](./verse-18.090-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/90/) |
+| 18.091 | Vision | [Open](./verse-18.091-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/91/) |
+| 18.092 | Vision | [Open](./verse-18.092-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/92/) |
+| 18.093 | Vision | [Open](./verse-18.093-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/93/) |
+| 18.094 | Vision | [Open](./verse-18.094-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/94/) |
+| 18.095 | Vision | [Open](./verse-18.095-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/95/) |
+| 18.096 | Vision | [Open](./verse-18.096-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/96/) |
+| 18.097 | Vision | [Open](./verse-18.097-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/97/) |
+| 18.098 | Vision | [Open](./verse-18.098-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/98/) |
+| 18.099 | Vision | [Open](./verse-18.099-vision/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/99/) |
+| 18.100 | Pastimes | [Open](./verse-18.100-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/100/) |
+| 18.101 | Pastimes | [Open](./verse-18.101-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/101/) |
+| 18.102 | Pastimes | [Open](./verse-18.102-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/102/) |
+| 18.103 | Pastimes | [Open](./verse-18.103-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/103/) |
+| 18.104 | Pastimes | [Open](./verse-18.104-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/104/) |
+| 18.105 | Pastimes | [Open](./verse-18.105-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/105/) |
+| 18.106 | Pastimes | [Open](./verse-18.106-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/106/) |
+| 18.107 | Pastimes | [Open](./verse-18.107-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/107/) |
+| 18.108 | Pastimes | [Open](./verse-18.108-pastimes/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/108/) |
+| 18.109 | Return | [Open](./verse-18.109-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/109/) |
+| 18.110 | Return | [Open](./verse-18.110-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/110/) |
+| 18.111 | Return | [Open](./verse-18.111-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/111/) |
+| 18.112 | Return | [Open](./verse-18.112-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/112/) |
+| 18.113 | Return | [Open](./verse-18.113-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/113/) |
+| 18.114 | Return | [Open](./verse-18.114-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/114/) |
+| 18.115 | Return | [Open](./verse-18.115-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/115/) |
+| 18.116 | Return | [Open](./verse-18.116-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/116/) |
+| 18.117 | Return | [Open](./verse-18.117-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/117/) |
+| 18.118 | Return | [Open](./verse-18.118-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/118/) |
+| 18.119 | Return | [Open](./verse-18.119-return/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/119/) |
+| 18.120 | Conclusion | [Open](./verse-18.120-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/120/) |
+| 18.121 | Conclusion | [Open](./verse-18.121-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/antya/18/121/) |

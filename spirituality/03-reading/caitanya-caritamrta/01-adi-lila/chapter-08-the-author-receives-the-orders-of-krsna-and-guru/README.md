@@ -1,0 +1,93 @@
+# Ādi-līlā — Chapter 08: The Author Receives the Orders of Kṛṣṇa and Guru
+
+**Authorized source:** [Vedabase — Ādi-līlā Chapter 8](https://vedabase.io/en/library/cc/adi/8/)
+
+**85 numbered texts**, organized as `verse-08.XXX-oneword`. The one-word labels were assigned from the chapter's actual text descriptions as editorial summaries, not as translations. Vedabase groups Texts 29–30 in one source entry; they receive separate study folders here.
+
+| Verse | One-word theme | Study folder | Vedabase |
+|---|---|---|---|
+| 08.001 | Authorship | [Open](./verse-08.001-authorship/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/1/) |
+| 08.002 | Gaurasundara | [Open](./verse-08.002-gaurasundara/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/2/) |
+| 08.003 | Advaita | [Open](./verse-08.003-advaita/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/3/) |
+| 08.004 | Srivasa | [Open](./verse-08.004-srivasa/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/4/) |
+| 08.005 | Pancatattva | [Open](./verse-08.005-pancatattva/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/5/) |
+| 08.006 | Skepticism | [Open](./verse-08.006-skepticism/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/6/) |
+| 08.007 | Acceptance | [Open](./verse-08.007-acceptance/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/7/) |
+| 08.008 | Jarasandha | [Open](./verse-08.008-jarasandha/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/8/) |
+| 08.009 | Recognition | [Open](./verse-08.009-recognition/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/9/) |
+| 08.010 | Sannyasa | [Open](./verse-08.010-sannyasa/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/10/) |
+| 08.011 | Liberation | [Open](./verse-08.011-liberation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/11/) |
+| 08.012 | Reverence | [Open](./verse-08.012-reverence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/12/) |
+| 08.013 | Worship | [Open](./verse-08.013-worship/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/13/) |
+| 08.014 | Logic | [Open](./verse-08.014-logic/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/14/) |
+| 08.015 | Mercy | [Open](./verse-08.015-mercy/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/15/) |
+| 08.016 | Offenses | [Open](./verse-08.016-offenses/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/16/) |
+| 08.017 | Rarity | [Open](./verse-08.017-rarity/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/17/) |
+| 08.018 | Confidentiality | [Open](./verse-08.018-confidentiality/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/18/) |
+| 08.019 | Bhakti | [Open](./verse-08.019-bhakti/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/19/) |
+| 08.020 | Distribution | [Open](./verse-08.020-distribution/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/20/) |
+| 08.021 | Independence | [Open](./verse-08.021-independence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/21/) |
+| 08.022 | Ecstasy | [Open](./verse-08.022-ecstasy/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/22/) |
+| 08.023 | Nityananda | [Open](./verse-08.023-nityananda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/23/) |
+| 08.024 | Offenses | [Open](./verse-08.024-offenses/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/24/) |
+| 08.025 | Hardheartedness | [Open](./verse-08.025-hardheartedness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/25/) |
+| 08.026 | Purification | [Open](./verse-08.026-purification/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/26/) |
+| 08.027 | Transformations | [Open](./verse-08.027-transformations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/27/) |
+| 08.028 | Advancement | [Open](./verse-08.028-advancement/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/28/) |
+| 08.029 | Offenses | [Open](./verse-08.029-offenses/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/29/) |
+| 08.030 | Offenses | [Open](./verse-08.030-offenses/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/30/) |
+| 08.031 | Cleansing | [Open](./verse-08.031-cleansing/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/31/) |
+| 08.032 | Magnanimity | [Open](./verse-08.032-magnanimity/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/32/) |
+| 08.033 | Caitanyamangala | [Open](./verse-08.033-caitanyamangala/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/33/) |
+| 08.034 | Biography | [Open](./verse-08.034-biography/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/34/) |
+| 08.035 | Auspiciousness | [Open](./verse-08.035-auspiciousness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/35/) |
+| 08.036 | Conclusion | [Open](./verse-08.036-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/36/) |
+| 08.037 | Authority | [Open](./verse-08.037-authority/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/37/) |
+| 08.038 | Conversion | [Open](./verse-08.038-conversion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/38/) |
+| 08.039 | Inspiration | [Open](./verse-08.039-inspiration/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/39/) |
+| 08.040 | Obeisances | [Open](./verse-08.040-obeisances/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/40/) |
+| 08.041 | Narayani | [Open](./verse-08.041-narayani/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/41/) |
+| 08.042 | Purification | [Open](./verse-08.042-purification/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/42/) |
+| 08.043 | Appeal | [Open](./verse-08.043-appeal/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/43/) |
+| 08.044 | Caitanyamangala | [Open](./verse-08.044-caitanyamangala/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/44/) |
+| 08.045 | Summary | [Open](./verse-08.045-summary/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/45/) |
+| 08.046 | Infinity | [Open](./verse-08.046-infinity/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/46/) |
+| 08.047 | Incompleteness | [Open](./verse-08.047-incompleteness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/47/) |
+| 08.048 | Nityananda | [Open](./verse-08.048-nityananda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/48/) |
+| 08.049 | Eagerness | [Open](./verse-08.049-eagerness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/49/) |
+| 08.050 | Throne | [Open](./verse-08.050-throne/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/50/) |
+| 08.051 | Govinda | [Open](./verse-08.051-govinda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/51/) |
+| 08.052 | Opulence | [Open](./verse-08.052-opulence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/52/) |
+| 08.053 | Service | [Open](./verse-08.053-service/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/53/) |
+| 08.054 | Haridasa | [Open](./verse-08.054-haridasa/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/54/) |
+| 08.055 | Tolerance | [Open](./verse-08.055-tolerance/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/55/) |
+| 08.056 | Benevolence | [Open](./verse-08.056-benevolence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/56/) |
+| 08.057 | Qualities | [Open](./verse-08.057-qualities/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/57/) |
+| 08.058 | Faith | [Open](./verse-08.058-faith/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/58/) |
+| 08.059 | Ananta | [Open](./verse-08.059-ananta/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/59/) |
+| 08.060 | Discipleship | [Open](./verse-08.060-discipleship/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/60/) |
+| 08.061 | Faith | [Open](./verse-08.061-faith/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/61/) |
+| 08.062 | Appreciation | [Open](./verse-08.062-appreciation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/62/) |
+| 08.063 | Hearing | [Open](./verse-08.063-hearing/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/63/) |
+| 08.064 | Illumination | [Open](./verse-08.064-illumination/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/64/) |
+| 08.065 | Instruction | [Open](./verse-08.065-instruction/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/65/) |
+| 08.066 | Govinda | [Open](./verse-08.066-govinda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/66/) |
+| 08.067 | Yadavacarya | [Open](./verse-08.067-yadavacarya/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/67/) |
+| 08.068 | Bhugarbha | [Open](./verse-08.068-bhugarbha/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/68/) |
+| 08.069 | Disciples | [Open](./verse-08.069-disciples/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/69/) |
+| 08.070 | Sivananda | [Open](./verse-08.070-sivananda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/70/) |
+| 08.071 | Eagerness | [Open](./verse-08.071-eagerness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/71/) |
+| 08.072 | Authorization | [Open](./verse-08.072-authorization/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/72/) |
+| 08.073 | Permission | [Open](./verse-08.073-permission/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/73/) |
+| 08.074 | Prayer | [Open](./verse-08.074-prayer/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/74/) |
+| 08.075 | Garland | [Open](./verse-08.075-garland/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/75/) |
+| 08.076 | Haribol | [Open](./verse-08.076-haribol/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/76/) |
+| 08.077 | Commencement | [Open](./verse-08.077-commencement/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/77/) |
+| 08.078 | Dictation | [Open](./verse-08.078-dictation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/78/) |
+| 08.079 | Instrument | [Open](./verse-08.079-instrument/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/79/) |
+| 08.080 | Madanamohana | [Open](./verse-08.080-madanamohana/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/80/) |
+| 08.081 | Permission | [Open](./verse-08.081-permission/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/81/) |
+| 08.082 | Authorization | [Open](./verse-08.082-authorization/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/82/) |
+| 08.083 | Humility | [Open](./verse-08.083-humility/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/83/) |
+| 08.084 | Remembrance | [Open](./verse-08.084-remembrance/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/84/) |
+| 08.085 | Prayer | [Open](./verse-08.085-prayer/README.md) | [Source](https://vedabase.io/en/library/cc/adi/8/85/) |

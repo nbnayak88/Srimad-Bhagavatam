@@ -1,0 +1,80 @@
+# Chapter Two: Contents of the Gītā Summarized
+
+**Authorized source:** [Vedabase — Bhagavad-gītā Chapter 2](https://vedabase.io/en/library/bg/2/)
+
+This chapter has **72 individual verse folders** in zero-padded `verse-02.XX-keyword` order. The keywords are provisional editorial study themes, not word-for-word Sanskrit synonyms. Translations and purports should be checked against the authorized source before adding them.
+
+| Verse | One-word theme | Study folder |
+|---|---|---|
+| 02.01 | Compassion | [Open](./verse-02.01-compassion/README.md) |
+| 02.02 | Rebuke | [Open](./verse-02.02-rebuke/README.md) |
+| 02.03 | Cowardice | [Open](./verse-02.03-cowardice/README.md) |
+| 02.04 | Reverence | [Open](./verse-02.04-reverence/README.md) |
+| 02.05 | Begging | [Open](./verse-02.05-begging/README.md) |
+| 02.06 | Uncertainty | [Open](./verse-02.06-uncertainty/README.md) |
+| 02.07 | Surrender | [Open](./verse-02.07-surrender/README.md) |
+| 02.08 | Instruction | [Open](./verse-02.08-instruction/README.md) |
+| 02.09 | Refusal | [Open](./verse-02.09-refusal/README.md) |
+| 02.10 | Smile | [Open](./verse-02.10-smile/README.md) |
+| 02.11 | Wisdom | [Open](./verse-02.11-wisdom/README.md) |
+| 02.12 | Soul | [Open](./verse-02.12-soul/README.md) |
+| 02.13 | Eternity | [Open](./verse-02.13-eternity/README.md) |
+| 02.14 | Transience | [Open](./verse-02.14-transience/README.md) |
+| 02.15 | Tolerance | [Open](./verse-02.15-tolerance/README.md) |
+| 02.16 | Reality | [Open](./verse-02.16-reality/README.md) |
+| 02.17 | Indestructibility | [Open](./verse-02.17-indestructibility/README.md) |
+| 02.18 | Imperishability | [Open](./verse-02.18-imperishability/README.md) |
+| 02.19 | Unborn | [Open](./verse-02.19-unborn/README.md) |
+| 02.20 | Immortality | [Open](./verse-02.20-immortality/README.md) |
+| 02.21 | Knowledge | [Open](./verse-02.21-knowledge/README.md) |
+| 02.22 | Garments | [Open](./verse-02.22-garments/README.md) |
+| 02.23 | Weapons | [Open](./verse-02.23-weapons/README.md) |
+| 02.24 | Invulnerability | [Open](./verse-02.24-invulnerability/README.md) |
+| 02.25 | Pervasion | [Open](./verse-02.25-pervasion/README.md) |
+| 02.26 | Inconceivability | [Open](./verse-02.26-inconceivability/README.md) |
+| 02.27 | Duty | [Open](./verse-02.27-duty/README.md) |
+| 02.28 | Warriors | [Open](./verse-02.28-warriors/README.md) |
+| 02.29 | Reputation | [Open](./verse-02.29-reputation/README.md) |
+| 02.30 | Dishonor | [Open](./verse-02.30-dishonor/README.md) |
+| 02.31 | Enemies | [Open](./verse-02.31-enemies/README.md) |
+| 02.32 | Equanimity | [Open](./verse-02.32-equanimity/README.md) |
+| 02.33 | Determination | [Open](./verse-02.33-determination/README.md) |
+| 02.34 | Results | [Open](./verse-02.34-results/README.md) |
+| 02.35 | Resolve | [Open](./verse-02.35-resolve/README.md) |
+| 02.36 | Distraction | [Open](./verse-02.36-distraction/README.md) |
+| 02.37 | Ritualism | [Open](./verse-02.37-ritualism/README.md) |
+| 02.38 | Desire | [Open](./verse-02.38-desire/README.md) |
+| 02.39 | Freedom | [Open](./verse-02.39-freedom/README.md) |
+| 02.40 | Duty | [Open](./verse-02.40-duty/README.md) |
+| 02.41 | Equilibrium | [Open](./verse-02.41-equilibrium/README.md) |
+| 02.42 | Yoga | [Open](./verse-02.42-yoga/README.md) |
+| 02.43 | Detachment | [Open](./verse-02.43-detachment/README.md) |
+| 02.44 | Discipline | [Open](./verse-02.44-discipline/README.md) |
+| 02.45 | Ignorance | [Open](./verse-02.45-ignorance/README.md) |
+| 02.46 | Intelligence | [Open](./verse-02.46-intelligence/README.md) |
+| 02.47 | Refuge | [Open](./verse-02.47-refuge/README.md) |
+| 02.48 | Fruition | [Open](./verse-02.48-fruition/README.md) |
+| 02.49 | Liberation | [Open](./verse-02.49-liberation/README.md) |
+| 02.50 | Steadiness | [Open](./verse-02.50-steadiness/README.md) |
+| 02.51 | Inquiry | [Open](./verse-02.51-inquiry/README.md) |
+| 02.52 | Contentment | [Open](./verse-02.52-contentment/README.md) |
+| 02.53 | Withdrawal | [Open](./verse-02.53-withdrawal/README.md) |
+| 02.54 | Taste | [Open](./verse-02.54-taste/README.md) |
+| 02.55 | Senses | [Open](./verse-02.55-senses/README.md) |
+| 02.56 | Restraint | [Open](./verse-02.56-restraint/README.md) |
+| 02.57 | Meditation | [Open](./verse-02.57-meditation/README.md) |
+| 02.58 | Attachment | [Open](./verse-02.58-attachment/README.md) |
+| 02.59 | Anger | [Open](./verse-02.59-anger/README.md) |
+| 02.60 | Delusion | [Open](./verse-02.60-delusion/README.md) |
+| 02.61 | Memory | [Open](./verse-02.61-memory/README.md) |
+| 02.62 | Peace | [Open](./verse-02.62-peace/README.md) |
+| 02.63 | Control | [Open](./verse-02.63-control/README.md) |
+| 02.64 | Turbulence | [Open](./verse-02.64-turbulence/README.md) |
+| 02.65 | Discrimination | [Open](./verse-02.65-discrimination/README.md) |
+| 02.66 | Wakefulness | [Open](./verse-02.66-wakefulness/README.md) |
+| 02.67 | Ocean | [Open](./verse-02.67-ocean/README.md) |
+| 02.68 | Desirelessness | [Open](./verse-02.68-desirelessness/README.md) |
+| 02.69 | Tranquility | [Open](./verse-02.69-tranquility/README.md) |
+| 02.70 | Fulfillment | [Open](./verse-02.70-fulfillment/README.md) |
+| 02.71 | Egolessness | [Open](./verse-02.71-egolessness/README.md) |
+| 02.72 | Brahman | [Open](./verse-02.72-brahman/README.md) |
