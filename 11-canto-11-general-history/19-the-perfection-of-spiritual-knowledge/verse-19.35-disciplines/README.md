@@ -1,0 +1,20 @@
+# Śrīmad-Bhāgavatam 11.19.35: disciplines
+
+**Chapter 19: The Perfection of Spiritual Knowledge**
+
+**Editorial theme:** disciplines. This one-word theme is a study aid, not a translation or an authoritative verse title.
+
+**Source:** [Vedabase — Śrīmad-Bhāgavatam 11.19.33-35](https://vedabase.io/en/library/sb/11/19/33-35/)
+
+Vedabase presents verses 33–35 together. This folder records verse 35 separately for study; the source link opens the shared passage.
+
+## Personal study notes
+
+- **Main teaching:**
+- **Key Sanskrit terms:**
+- **Insights from the purport:**
+- **Questions to explore:**
+- **Reflection / practical application:**
+- **Related passages:**
+
+[Chapter index](../README.md) · [Canto index](../../README.md)
