@@ -1,0 +1,18 @@
+# Śrīmad-Bhāgavatam 3.24.22 — Lineages
+
+**Authorized text:** [Vedabase — SB 3.24.22](https://vedabase.io/en/library/sb/3/24/22-23/)
+
+**One-word study theme:** **Lineages**
+
+This is an editorial study label, not an authorized translation. Read the linked verse and Śrīla Prabhupāda's purport to explore its meaning.
+
+**Combined passage:** Vedabase presents texts 22–23 together. This numbered folder links to that shared passage; its theme is a reading aid within the combined passage.
+
+## Personal study notes
+
+- **Key teaching:** _To be completed after study._
+- **Question to explore:** _To be completed after study._
+- **Reflection:** _To be completed after study._
+- **Daily application:** _To be completed after study._
+
+[Chapter index](../README.md)
